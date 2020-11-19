@@ -2,8 +2,8 @@
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
+* [LedFade](#LEDFADE)
+* [LedBlink 5 Times](#LEDBLINK5TIMES)
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
@@ -11,21 +11,17 @@
 * [Sub Asssembly](#Sub-Assembly)
 * [Final Assembly](#Final-Assembly)
 * [Dorothy's Dowel's](#Dorothy's-Dowel's)
-## Base
+## LedFade
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+This is our intro to code with Arduino to make a LED fade in and out.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[Code for FADE](https://create.arduino.cc/editor/rhagy82/f8c65f4c-db31-42d4-98f3-a705e208d2e2)
 
 ### Image
-This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
-~~~
-<img src="images/Base.jpg" alt="The Base" width="200">
-~~~
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
+
 
 ### Reflection
 
